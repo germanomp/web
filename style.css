@@ -65,7 +65,7 @@ a {
     color: #0796e9;;
     background-color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 2px;
     height: 1.8rem;
     width: 5rem;
 }
@@ -82,7 +82,7 @@ a {
 .noticias section article{
     border: 0px solid black;
     padding: 10px;
-    border-radius: 3px;
+    border-radius: 2px;
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     width: 20rem;
@@ -92,7 +92,7 @@ a {
     background-color: rgb(13, 126, 255);
     border: none;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius: 2px;
     height: 1.8rem;
     width: 5rem;
 }
@@ -114,7 +114,7 @@ a {
     border: 0px solid black;
     padding: 3rem;
     margin: auto;
-    border-radius: 3px;
+    border-radius: 2px;
     background-color: white;
     box-shadow: 2px 2px 5px 1px rgba(0,0,0,0.75);
     width: 20rem;
